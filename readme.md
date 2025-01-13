@@ -2,9 +2,6 @@
 
 Website Resep Makanan
 
-## Demo
-
-[Demo Website](https://cooboo.vercel.app/)
 
 ## Deskripsi
 
@@ -38,7 +35,3 @@ Pastikan Anda telah mengganti `https://www.example.com` dengan URL demo sebenarn
 ## Kontribusi
 
 Kontribusi dan masukan selalu diterima. Jika Anda menemukan bug atau ingin menambahkan fitur baru, silakan ajukan permintaan tarik (pull request) ke repositori ini. Pastikan untuk menjelaskan dengan jelas perubahan yang Anda usulkan.
-
-## Lisensi
-
-[MIT](https://opensource.org/licenses/MIT)
