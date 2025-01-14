@@ -8,16 +8,13 @@ const FAQPage = () => {
         className='collapse-plus collapse mt-5 border border-base-300 '
       >
         <div className='collapse-title text-xl font-medium'>
-          Apa itu CooBoo?
+          Apa itu Warung Goceng?
         </div>
         <div className='collapse-content'>
           <p>
-            Website Resep Makanan adalah sebuah situs web yang menyediakan
-            kumpulan resep makanan dari berbagai jenis, mulai dari hidangan
-            pembuka, hidangan utama, makanan penutup, dan lainnya. Situs web ini
-            dapat digunakan untuk mencari inspirasi memasak, mendapatkan
-            petunjuk langkah demi langkah, dan mendapatkan ide-ide baru untuk
-            menciptakan hidangan yang lezat.
+          Warung Goceng adalah sebuah platform inovatif yang menyediakan rekomendasi makanan dan panduan praktis untuk membuatnya. Brand ini didirikan dengan tujuan utama mendukung mahasiswa—khususnya yang memiliki keterbatasan waktu dan dana—agar tetap dapat menikmati makanan lezat yang mudah dibuat di rumah.
+          <br></br>
+          Dengan audiens yang luas, mulai dari generasi muda hingga yang lebih tua, Warung Goceng memastikan kontennya relevan, praktis, dan dapat diakses oleh berbagai kalangan. Website ini menjadi solusi ideal bagi mereka yang ingin mengeksplorasi pilihan makanan tanpa harus mengeluarkan banyak biaya atau menghabiskan waktu lama di dapur.
           </p>
         </div>
       </div>
@@ -26,29 +23,19 @@ const FAQPage = () => {
         className='collapse-plus collapse border border-base-300 '
       >
         <div className='collapse-title text-xl font-medium'>
-          Apa manfaat mengunjungi Website Resep Makanan?
+          Apa manfaat mengunjungi Website Warung Goceng?
         </div>
         <div className='collapse-content'>
-          <p>
-            Mengunjungi Website Resep Makanan memiliki beberapa manfaat, antara
-            lain:
-          </p>
-          <p>
-            - Menemukan beragam resep makanan dari berbagai jenis masakan dan
-            kategori.
-          </p>
-          <p>
-            - Mencari inspirasi untuk menciptakan hidangan baru dan kreatif.
-          </p>
-          <p>
-            - Memperluas pengetahuan tentang bahan-bahan dan teknik memasak yang
-            berbeda.
-          </p>
-          <p>
-            - Mempelajari petunjuk langkah demi langkah untuk memasak hidangan
-            dengan tepat.
-          </p>
-        </div>
+        <ul>
+          <li><strong>- Resep Mudah dan Praktis</strong>: Semua resep dirancang sederhana, dengan langkah-langkah yang mudah diikuti, cocok untuk pemula sekalipun.</li>
+          <li><strong>- Bahan Masakan Terjangkau</strong>: Warung Goceng menyediakan rekomendasi resep dengan bahan yang ekonomis dan mudah ditemukan di sekitar Anda.</li>
+          <li><strong>- Solusi untuk Mahasiswa dan Anak Kos</strong>: Fokus pada makanan yang cepat dibuat, hemat biaya, dan tetap enak, menjadikannya pilihan ideal untuk mahasiswa dan anak kos.</li>
+          <li><strong>- Rekomendasi Makanan yang Beragam</strong>: Mulai dari makanan Indonesia hingga internasional, pengguna dapat menemukan inspirasi sesuai dengan selera masing-masing.</li>
+          <li><strong>- Inspirasi Makanan Sehari-hari</strong>: Tidak perlu bingung lagi memikirkan apa yang akan dimasak atau dimakan; Warung Goceng punya banyak ide kreatif untuk setiap hari.</li>
+          <li><strong>- Panduan Interaktif dan Informatif</strong>: Selain resep, website ini dilengkapi dengan panduan visual seperti foto atau video yang mempermudah proses memasak.</li>
+        </ul>
+      </div>
+
       </div>
       <div
         tabIndex={0}
@@ -69,7 +56,7 @@ const FAQPage = () => {
         className='collapse-plus collapse border border-base-300 '
       >
         <div className='collapse-title text-xl font-medium'>
-          Apakah resep makanan di Website Resep Makanan sudah diuji?
+          Apakah resep makanan di Website Warung Goceng sudah diuji?
         </div>
         <div className='collapse-content'>
           <p>
@@ -83,7 +70,7 @@ const FAQPage = () => {
         className='collapse-plus collapse border border-base-300 '
       >
         <div className='collapse-title text-xl font-medium'>
-          Bisakah saya mengirimkan resep saya sendiri ke Website Resep Makanan?
+          Bisakah saya mengirimkan resep saya sendiri ke Website Warung Goceng?
         </div>
         <div className='collapse-content'>
           <p>Fitur belum dibuat</p>
